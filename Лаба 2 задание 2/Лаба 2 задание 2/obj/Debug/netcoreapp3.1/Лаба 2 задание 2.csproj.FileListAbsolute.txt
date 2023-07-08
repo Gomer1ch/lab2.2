@@ -1,0 +1,13 @@
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\bin\Debug\netcoreapp3.1\Лаба 2 задание 2.exe
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\bin\Debug\netcoreapp3.1\Лаба 2 задание 2.deps.json
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\bin\Debug\netcoreapp3.1\Лаба 2 задание 2.runtimeconfig.json
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\bin\Debug\netcoreapp3.1\Лаба 2 задание 2.runtimeconfig.dev.json
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\bin\Debug\netcoreapp3.1\Лаба 2 задание 2.dll
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\bin\Debug\netcoreapp3.1\Лаба 2 задание 2.pdb
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\obj\Debug\netcoreapp3.1\Лаба 2 задание 2.csprojAssemblyReference.cache
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\obj\Debug\netcoreapp3.1\Лаба 2 задание 2.AssemblyInfoInputs.cache
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\obj\Debug\netcoreapp3.1\Лаба 2 задание 2.AssemblyInfo.cs
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\obj\Debug\netcoreapp3.1\Лаба 2 задание 2.csproj.CoreCompileInputs.cache
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\obj\Debug\netcoreapp3.1\Лаба 2 задание 2.dll
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\obj\Debug\netcoreapp3.1\Лаба 2 задание 2.pdb
+C:\Users\GamerHead\source\repos\Лаба 2 задание 2\Лаба 2 задание 2\obj\Debug\netcoreapp3.1\Лаба 2 задание 2.genruntimeconfig.cache
